@@ -11,6 +11,7 @@ def make_album(singer_name,album_name,songs_count='10'):
     album = {'s':singer_name,'a':album_name,'counts':songs_count}
     return album
 while True:
+
     print("Please enter 'q' at any time to quit.")
     s_name = input('s:')
     if s_name == 'q':
