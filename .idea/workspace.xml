@@ -2,109 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f89d6d0-dd97-4a94-8286-7d1490e1520a" name="Default" comment="name_function2">
-      <change afterPath="$PROJECT_DIR$/decorator_&amp;_partial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_junior/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_junior/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_junior/db_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/11-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/city_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/language_survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/test_employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/from_introduction_to_practice/test_survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_sqlalchemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using_urllib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_script_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_script_demo/db_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_script_demo/flask_script_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_script_demo/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_sqlalchemy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_sqlalchemy/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_sqlalchemy/db_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/flask_sqlalchemy/db_demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/g_demo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/g_demo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/g_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/g_demo/g_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/g_demo/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/g_demo/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/get_post_demo/get_post_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/get_post_demo/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/get_post_demo/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/hook_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/hook_func/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/models_sep/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/models_sep/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/models_sep/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/models_sep/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/models_sep/models_sep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/project_zhiliao/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/project_zhiliao/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/project_zhiliao/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/project_zhiliao/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/project_zhiliao/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/project_zhiliao/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/session_demo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/session_demo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/session_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_junior/session_demo/session_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrate_demo/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrate_demo/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrate_demo/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrate_demo/migrate_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrate_demo/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eric_Matthes/electric_car.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7-10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7-6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7-9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7.3.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7.3.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/7.3.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8-9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.2.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.3.4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.4.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.5.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.5.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.6.1(2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/8.6.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/9-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/9-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/9-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/9-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/9-5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/9-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/car.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/dog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/electric_car.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/import.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/pizza.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from introduction to practice/printing_models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/10-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/10-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/8-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/8-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/9-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/9-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/alice.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/alice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/division.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/electric_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/electric_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/favorite_languages.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/favorite_languages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/file_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/greet_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/greet_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/my_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/my_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/my_cars.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/my_cars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/my_electric_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/my_electric_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/name_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/number_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/number_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/number_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/number_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/pi_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/pi_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/privileges.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/privileges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/remember_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/remember_me.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/restaurant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/test_name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/test_name_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/user2.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/user2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/word_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/word_count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/from_introduction_to_practice/write_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/from_introduction_to_practice/write_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_junior/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_junior/db_demo1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,8 +92,10 @@
     <SUITE FILE_PATH="coverage/project1$7_8.coverage" NAME="7-8 Coverage Results" MODIFIED="1555314733696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from introduction to practice" />
     <SUITE FILE_PATH="coverage/project1$10_10.coverage" NAME="10-10 Coverage Results" MODIFIED="1555996920735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/project1$4.coverage" NAME="4 Coverage Results" MODIFIED="1554715860169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function/exercise" />
+    <SUITE FILE_PATH="coverage/Daily_Excercise$models_sep__1_.coverage" NAME="models_sep (1) Coverage Results" MODIFIED="1568818234782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_junior/main" />
     <SUITE FILE_PATH="coverage/project1$car.coverage" NAME="car Coverage Results" MODIFIED="1555592294099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from introduction to practice" />
     <SUITE FILE_PATH="coverage/project1$13_1.coverage" NAME="13.1 Coverage Results" MODIFIED="1554888687398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function/exercise" />
+    <SUITE FILE_PATH="coverage/Daily_Excercise$db_demo3.coverage" NAME="db_demo3 Coverage Results" MODIFIED="1568795922431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_junior" />
     <SUITE FILE_PATH="coverage/project1$loop.coverage" NAME="loop Coverage Results" MODIFIED="1553874105310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lxf" />
     <SUITE FILE_PATH="coverage/project1$8_4_1.coverage" NAME="8.4.1 Coverage Results" MODIFIED="1555399782845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from introduction to practice" />
     <SUITE FILE_PATH="coverage/Daily_Excercise$using_requests.coverage" NAME="using_requests Coverage Results" MODIFIED="1568462549215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -163,6 +111,7 @@
     <SUITE FILE_PATH="coverage/project1$normal_open.coverage" NAME="normal_open Coverage Results" MODIFIED="1553409464632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/input_and_output" />
     <SUITE FILE_PATH="coverage/project1$Unittests_for_test_name_function_NamesTestCase_test_first_last_name.coverage" NAME="Unittests for test_name_function.NamesTestCase.test_first_last_name Coverage Results" MODIFIED="1556074269365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/project1$input_output.coverage" NAME="input_output Coverage Results" MODIFIED="1553431227875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Daily_Excercise$models_sep.coverage" NAME="models_sep Coverage Results" MODIFIED="1568819699599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_junior/models_sep" />
     <SUITE FILE_PATH="coverage/project1$10_6.coverage" NAME="10-6 Coverage Results" MODIFIED="1555987408536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/project1$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1556076647772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/project1$input___output.coverage" NAME="input &amp; output Coverage Results" MODIFIED="1553311561118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -221,6 +170,7 @@
     <SUITE FILE_PATH="coverage/project1$9_11.coverage" NAME="9-11 Coverage Results" MODIFIED="1555733487829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/project1$8_6.coverage" NAME="8-6 Coverage Results" MODIFIED="1555670096475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/project1$number_reader.coverage" NAME="number_reader Coverage Results" MODIFIED="1556009351717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
+    <SUITE FILE_PATH="coverage/Daily_Excercise$db_demo3__1_.coverage" NAME="db_demo3 (1) Coverage Results" MODIFIED="1568796229213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project1$city_functions.coverage" NAME="city_functions Coverage Results" MODIFIED="1556093200219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
     <SUITE FILE_PATH="coverage/Daily_Excercise$db_demo1__1_.coverage" NAME="db_demo1 (1) Coverage Results" MODIFIED="1568687534111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11111" />
     <SUITE FILE_PATH="coverage/project1$8_1.coverage" NAME="8-1 Coverage Results" MODIFIED="1555320180431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from introduction to practice" />
@@ -230,67 +180,60 @@
     <SUITE FILE_PATH="coverage/project1$1.coverage" NAME="1 Coverage Results" MODIFIED="1554312843619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function/exercise" />
     <SUITE FILE_PATH="coverage/project1$10.coverage" NAME="10 Coverage Results" MODIFIED="1554805445519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function/exercise" />
     <SUITE FILE_PATH="coverage/project1$greet_user.coverage" NAME="greet_user Coverage Results" MODIFIED="1556010398812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/from_introduction_to_practice" />
+    <SUITE FILE_PATH="coverage/Daily_Excercise$db_demo4.coverage" NAME="db_demo4 Coverage Results" MODIFIED="1568798740716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_junior" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_demo3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_demo3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_demo3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_demo3: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_demo4" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_demo4" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_demo4" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_demo4: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/flask_junior/flask_sqlalchemy/db_demo4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/using_urllib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="29" selection-start-line="26" selection-start-column="22" selection-end-line="29" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/using_requests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="125" selection-start-line="125" selection-end-line="125" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_junior/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask_junior/db_demo1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="1007">
+              <caret line="55" column="12" selection-start-line="54" selection-end-line="55" selection-end-column="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -299,28 +242,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/models_sep.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <element signature="e#19#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/exts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_junior/hook_func/hook_func.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../venv/Lib/site-packages/flask_sqlalchemy/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="695">
-              <caret line="816" selection-start-line="816" selection-end-line="816" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../venv/Lib/site-packages/requests/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11305">
-              <caret line="628" column="13" selection-start-line="628" selection-start-column="13" selection-end-line="628" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5700">
-              <caret line="324" column="8" selection-start-line="324" selection-start-column="8" selection-end-line="324" selection-end-column="8" />
+            <state relative-caret-position="14212">
+              <caret line="785" column="24" selection-start-line="785" selection-start-column="24" selection-end-line="785" selection-end-column="24" />
+              <folding>
+                <element signature="e#26255#26876#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -332,10 +304,14 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Copy of Flask Main" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uri</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -351,16 +327,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/user2.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/9-12.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/privileges.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/favorite_languages.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/9-13.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/9-14.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/9-15.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/file_reader.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/pi_string.py" />
-        <option value="$PROJECT_DIR$/from_introduction_to_practice/10-1.py" />
         <option value="$PROJECT_DIR$/from_introduction_to_practice/write_message.py" />
         <option value="$PROJECT_DIR$/from_introduction_to_practice/guest.txt" />
         <option value="$PROJECT_DIR$/from_introduction_to_practice/10-3.py" />
@@ -400,16 +366,26 @@
         <option value="$PROJECT_DIR$/flask_junior/models.py" />
         <option value="$PROJECT_DIR$/flask_junior/__init__.py" />
         <option value="$PROJECT_DIR$/11111/db_demo1.py" />
-        <option value="$PROJECT_DIR$/flask_junior/config.py" />
         <option value="$PROJECT_DIR$/flask_junior/db_demo1.py" />
+        <option value="$PROJECT_DIR$/flask_junior/db_demo3.py" />
+        <option value="$PROJECT_DIR$/db_demo3.py" />
+        <option value="$PROJECT_DIR$/flask_junior/config.py" />
+        <option value="$PROJECT_DIR$/flask_junior/db_demo4.py" />
+        <option value="$PROJECT_DIR$/flask_junior/flask_script_demo/flask_script_demo.py" />
+        <option value="$PROJECT_DIR$/flask_junior/flask_script_demo/db_scripts.py" />
+        <option value="$PROJECT_DIR$/flask_junior/flask_script_demo/manage.py" />
+        <option value="$PROJECT_DIR$/flask_junior/models_sep/modles.py" />
+        <option value="$PROJECT_DIR$/flask_junior/models_sep/models.py" />
+        <option value="$PROJECT_DIR$/flask_junior/models_sep/exts.py" />
+        <option value="$PROJECT_DIR$/flask_junior/models_sep/models_sep.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="938" />
-    <option name="y" value="14" />
+    <option name="x" value="1001" />
+    <option name="y" value="28" />
     <option name="width" value="1036" />
-    <option name="height" value="1378" />
+    <option name="height" value="1385" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -430,6 +406,12 @@
               <item name="Daily Excercise" type="462c0819:PsiDirectoryNode" />
               <item name="flask_junior" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Daily Excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Daily Excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_junior" type="462c0819:PsiDirectoryNode" />
+              <item name="models_sep" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -437,17 +419,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Daily Excercise\flask_junior\models_sep" />
+      <recent name="D:\workspace\project1\error_exception" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\Daily Excercise\flask_junior\flask_sqlalchemy" />
+      <recent name="D:\workspace\Daily Excercise" />
       <recent name="D:\workspace\Daily Excercise\flask_junior" />
       <recent name="D:\workspace\Daily Excercise\11111" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\project1\error_exception" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -462,74 +449,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.db_demo1 (2)">
-    <configuration name="db_demo1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11111" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\workspace\Daily Excercise\flask_junior\db_demo1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="db_demo1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_junior" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_junior/db_demo1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="db_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_junior" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\workspace\Daily Excercise\flask_junior\db_demo1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="using_requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.models_sep">
+    <configuration name="db_demo3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -542,7 +463,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using_requests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_demo3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -551,7 +472,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="using_urllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="db_demo3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -559,12 +480,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_junior" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using_urllib.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\Daily Excercise\db_demo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_demo4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_junior" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\Daily Excercise\flask_junior\flask_sqlalchemy\db_demo4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models_sep (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_junior/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_junior/main/models_sep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models_sep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_junior/models_sep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_junior/models_sep/models_sep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -574,19 +561,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.using_urllib" />
-      <item itemvalue="Python.using_requests" />
-      <item itemvalue="Python.db_demo1" />
-      <item itemvalue="Python.db_demo1 (1)" />
-      <item itemvalue="Python.db_demo1 (2)" />
+      <item itemvalue="Python.db_demo3" />
+      <item itemvalue="Python.db_demo4" />
+      <item itemvalue="Python.db_demo3 (1)" />
+      <item itemvalue="Python.models_sep" />
+      <item itemvalue="Python.models_sep (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.db_demo1 (2)" />
-        <item itemvalue="Python.db_demo1 (1)" />
-        <item itemvalue="Python.db_demo1" />
-        <item itemvalue="Python.using_requests" />
-        <item itemvalue="Python.using_urllib" />
+        <item itemvalue="Python.models_sep" />
+        <item itemvalue="Python.models_sep (1)" />
+        <item itemvalue="Python.db_demo4" />
+        <item itemvalue="Python.db_demo3 (1)" />
+        <item itemvalue="Python.db_demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -607,7 +594,12 @@
       <workItem from="1568432126306" duration="9863000" />
       <workItem from="1568554545999" duration="1381000" />
       <workItem from="1568598989532" duration="2093000" />
-      <workItem from="1568682055591" duration="12576000" />
+      <workItem from="1568682055591" duration="13348000" />
+      <workItem from="1568767602532" duration="31414000" />
+      <workItem from="1568852207219" duration="1003000" />
+      <workItem from="1568853613915" duration="618000" />
+      <workItem from="1568968137426" duration="29000" />
+      <workItem from="1569126597890" duration="640000" />
     </task>
     <servers />
   </component>
@@ -644,7 +636,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72380000" />
+    <option name="totallyTimeSpent" value="106856000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -657,29 +649,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1248" height="797" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20889261" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17533557" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49808794" weight="0.6171171" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40947548" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49808794" weight="0.32882884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4984985" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32166666" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50191206" side_tool="true" weight="0.39649415" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32825205" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5585586" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3873874" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32882884" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" weight="0.3298279" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32993513" />
-      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="4" weight="0.24077182" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.329698" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.16491395" />
@@ -734,6 +728,11 @@
           <line>20</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flask_junior/flask_script_demo/manage.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -745,123 +744,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/guest_book.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/division.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/guest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/cat.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/dog.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/alice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="1" column="71" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/word_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/10-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/numbers.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/username.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/greet_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/number_writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/number_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/from_introduction_to_practice/reason.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1012,6 +894,7 @@
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/models.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
@@ -1053,40 +936,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/flask_sqlalchemy/db_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="49" column="23" selection-start-line="48" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/96bb48f8-481d-4854-b2a8-190b60102254/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7e6d10c5-4e49-4f57-b580-963aff3d7a96/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://7e6d10c5-4e49-4f57-b580-963aff3d7a96/schema/db_demo3/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a422ef5b-9790-4a4f-8c53-452af4ac1926/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/flask_junior/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_junior/models.py">
+    <entry file="file://$PROJECT_DIR$/flask_junior/flask_sqlalchemy/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
           <folding>
-            <element signature="e#0#4#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://7e6d10c5-4e49-4f57-b580-963aff3d7a96/schema/db_demo3/table/article">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a422ef5b-9790-4a4f-8c53-452af4ac1926/schema/db_demo4/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a422ef5b-9790-4a4f-8c53-452af4ac1926/schema/db_demo4/table/article">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a422ef5b-9790-4a4f-8c53-452af4ac1926/schema/db_demo4/table/article_tag">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a422ef5b-9790-4a4f-8c53-452af4ac1926/schema/db_demo4/table/tag">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/flask_script_demo/db_scripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/flask_script_demo/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#19#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/flask_script_demo/flask_script_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/flask_sqlalchemy/db_demo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="55" column="12" selection-start-line="54" selection-end-line="55" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/models_sep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="e#19#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/exts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../venv/Lib/site-packages/flask_sqlalchemy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="816" selection-start-line="816" selection-end-line="816" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_junior/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_junior/db_demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="14212">
+          <caret line="785" column="24" selection-start-line="785" selection-start-column="24" selection-end-line="785" selection-end-column="24" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#26255#26876#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/hook_func/hook_func.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_junior/models_sep/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

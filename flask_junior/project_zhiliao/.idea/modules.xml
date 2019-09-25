@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/navbar.iml" filepath="$PROJECT_DIR$/.idea/navbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project_zhiliao.iml" filepath="$PROJECT_DIR$/.idea/project_zhiliao.iml" />
+    </modules>
+  </component>
+</project>
