@@ -19,19 +19,27 @@
     </p>
     <hr>
     <h4>评论:(0)</h4>
-    <form action="{{ url_for('add_answer') }}" class="">
+    <form action="{{ url_for('add_answer') }}" method="post">
         <div class="form-group">
-            <input type="text" class="form-control" placeholder="请输入评论"
-                   name="answer_content">
+            <input name="answer_content" type="text" class="form-control"
+                   placeholder="请输入评论">
         </div>
         <input type="hidden" name="question_id" value="{{ question.id }}">
         <div class="form-group" style="text-align: right">
             <button class="btn btn-primary">立即评论</button>
         </div>
     </form>
-    <ul>
+    <ul class="answer-list">
         {% for answer in question.answers %}
-            <li>{{ answer.content }}</li>
+            <li>
+            <div class="user-info">
+                <img src="{{ url_for('static', filename='images/small.jpg') }}"
+                     alt="" class="avatar">
+                <span class="username">{{ answer.author.username }}</span>
+                <span class="create-time">{{ answer.create_time }}</span>
+            </div>
+            <p class="answer-content">{{ answer.content }}</p>
+            </li>
         {% endfor %}
     </ul>
 {% endblock %}

@@ -116,9 +116,9 @@ def detail(question_id):
 @app.route('/add_answer/ ', methods=['GET', 'POST'])
 @login_required
 def add_answer():
-    content = request.form.get('answer_content')
-    print('conent:', content)
+    content = request.form.get('answer_content', '')
     question_id = request.form.get('question_id')
+    print('question_id', question_id)
     answer = Answer(content=content)
     user_id = session['user_id']
     user = User.query.filter(User.id == user_id).first()

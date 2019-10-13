@@ -19,16 +19,19 @@ class Question(db.Model):
     content = db.Column(db.Text, nullable=False)
     # now() 获取服务器第一次运行的时间
     # now 是每次创建模型的时候，获取当前的时间
-    create_time = db.Column(db.DateTime,default=datetime.now)
+    create_time = db.Column(db.DateTime, default=datetime.now)
     author_id = db.Column(db.Integer, db.ForeignKey('user.id'))
     author = db.relationship('User', backref=db.backref('questions'))
+
 
 class Answer(db.Model):
     __tablename__ = 'answer'
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     content = db.Column(db.Text, nullable=False)
-    create_time = db.Column(db.DateTime,default=datetime.now)
+    create_time = db.Column(db.DateTime, default=datetime.now)
     question_id = db.Column(db.Integer, db.ForeignKey('question.id'))
+    question = db.relationship(
+        'Question', backref=db.backref('answers', order_by=create_time.desc()))
+
     author_id = db.Column(db.Integer, db.ForeignKey('user.id'))
-    question = db.relationship('Question', backref=db.backref('answers'))
     author = db.relationship('User', backref=db.backref('authors'))

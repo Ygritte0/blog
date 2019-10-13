@@ -1163,7 +1163,7 @@
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="294" parent="285" name="author_ID">
+    <column id="294" parent="285" name="author_id">
       <Position>5</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
@@ -1172,8 +1172,8 @@
       <ColNames>question_id</ColNames>
       <Type>btree</Type>
     </index>
-    <index id="296" parent="285" name="author_ID">
-      <ColNames>author_ID</ColNames>
+    <index id="296" parent="285" name="author_id">
+      <ColNames>author_id</ColNames>
       <Type>btree</Type>
     </index>
     <key id="297" parent="285" name="PRIMARY">
@@ -1187,8 +1187,8 @@
       <RefTableName>question</RefTableName>
       <RefColNames>id</RefColNames>
     </foreign-key>
-    <foreign-key id="299" parent="285" name="answer_ibfk_1">
-      <ColNames>author_ID</ColNames>
+    <foreign-key id="299" parent="285" name="answer_ibfk_3">
+      <ColNames>author_id</ColNames>
       <RefSchemaName>demo</RefSchemaName>
       <RefTableName>user</RefTableName>
       <RefColNames>id</RefColNames>
